@@ -1,0 +1,29 @@
+{
+    "name": "xi-project/xi-composable-mixins",
+    "type": "library",
+    "description": "Making PHP 5.4 traits more composable",
+    "keywords": ["trait", "traits"],
+    "homepage": "https://github.com/xi-project/xi-composable-mixins",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Martin Pärtel",
+            "email": "martin.partel@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    
+    "require": {
+        "php": ">=5.4.0"
+    },
+    
+    "require-dev": {
+        "phpunit/phpunit": "3.7.*"
+    },
+    
+    "autoload": {
+        "psr-0": {
+            "Xi": "library"
+        }
+    }
+}

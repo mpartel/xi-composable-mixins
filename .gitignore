@@ -1,0 +1,7 @@
+/vendor
+/composed_mixins
+
+# Eclipse
+/.buildpath
+/.project
+/.settings
